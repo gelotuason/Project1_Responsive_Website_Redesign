@@ -4,6 +4,13 @@
     }
 }
 
+@media screen and (max-width: 2560px) {
+    .column-spread {
+        display: flex;
+        flex-direction: column;    
+    }
+}
+
 body {
     font-family: 'Poppins', sans-serif;
 }
